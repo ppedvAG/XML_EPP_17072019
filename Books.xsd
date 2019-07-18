@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="root">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="kind"/>
+				<xs:element name="totalItems"/>
+				<xs:element name="items" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="kind"/>	
+							<xs:element name="id"/>	
+							<xs:element name="etag"/>	
+							<xs:element name="selfLink"/>	
+							<xs:element name="volumeInfo"/>	
+							<xs:element ref="saleInfo"/>	
+							<xs:element name="accessInfo"/>	
+							<xs:element name="searchInfo" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="textSnippet" type="xs:string"/>	
+									</xs:sequence>
+								</xs:complexType>					
+							</xs:element>	
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="saleInfo">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="country"/>
+				<xs:element name="saleability"/>
+				<xs:element name="isEbook"/>
+				<xs:element ref="listPrice" minOccurs="0"/>
+				<xs:element name="retailPrice" minOccurs="0"/>
+				<xs:element name="buyLink" minOccurs="0"/>
+				<xs:element name="offers" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="listPrice">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:choice>
+					<xs:element name="amount" >
+						<xs:simpleType>
+							<xs:restriction base="xs:decimal">
+								<xs:minInclusive value="0"/>
+								<xs:maxInclusive value ="99"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:element>
+					<xs:element name="amountInMicros" type="xs:int" />
+				</xs:choice>
+				<xs:element name="currencyCode">
+					<xs:simpleType>
+						<xs:restriction base ="xs:string">
+							<xs:enumeration value="EUR"/>
+							<xs:enumeration value="CHF"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

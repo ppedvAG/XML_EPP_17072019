@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Autos.xslt"?>
+<Autos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+	     xsi:noNamespaceSchemaLocation="Autos.xsd">
+  <Auto>
+    <Hersteller>BMW</Hersteller>
+    <Model>BMW Z8</Model>
+    <Leergewicht Einheit="kg">1690</Leergewicht>
+    <Zylinder>8</Zylinder>
+    <Hubraum Einheit="cm³">4941</Hubraum>
+    <Leistung Einheit="PS">295</Leistung>
+    <Höchstgeschwindingkeit Einheit="km/h">250</Höchstgeschwindingkeit>
+    <Von0Auf100 Einheit="s">4.7</Von0Auf100>
+    <Kennzeichen>HH-BB 9999</Kennzeichen>
+  </Auto>
+  <Auto>
+    <Hersteller>Mercedes</Hersteller>
+    <Model>SLK 32 AMG</Model>
+    <Leergewicht Einheit="kg">1495</Leergewicht>
+    <Zylinder>6</Zylinder>
+    <Hubraum Einheit="cm³">3199</Hubraum>
+    <Leistung Einheit="KW">260</Leistung>
+    <Höchstgeschwindingkeit Einheit="km/h">250</Höchstgeschwindingkeit>
+    <Von0Auf100 Einheit="s">5.2</Von0Auf100>
+    <Kennzeichen>D-FU 110</Kennzeichen>
+  </Auto>
+  <Auto>
+    <Hersteller>Audi</Hersteller>
+    <Model>1.8 TT quattro</Model>
+    <Leergewicht Einheit="kg">1395</Leergewicht>
+    <Zylinder>4</Zylinder>
+    <Hubraum Einheit="cm³">1781</Hubraum>
+    <Leistung Einheit="KW">65</Leistung>
+    <Höchstgeschwindingkeit Einheit="km/h">243</Höchstgeschwindingkeit>
+    <Von0Auf100 Einheit="s">6.4</Von0Auf100>
+    <Kennzeichen>AÖ-AR 1999</Kennzeichen>
+  </Auto>
+  <Auto>
+    <Hersteller>VW</Hersteller>
+    <Model>Golf GTI VII</Model>
+    <Leergewicht Einheit="kg">1352</Leergewicht>
+    <Zylinder>4</Zylinder>
+    <Hubraum Einheit="cm³">999</Hubraum>
+    <Leistung Einheit="KW">220</Leistung>
+    <Höchstgeschwindingkeit Einheit="km/h">250</Höchstgeschwindingkeit>
+    <Von0Auf100 Einheit="s">0</Von0Auf100>
+    <Kennzeichen>AÖ-AR 1999</Kennzeichen>
+  </Auto>
+  <Auto>
+    <Hersteller>VW</Hersteller>
+    <Model>Golf GTI I</Model>
+    <Leergewicht Einheit="kg">810</Leergewicht>
+    <Zylinder>4</Zylinder>
+    <Hubraum Einheit="cm³">999</Hubraum>
+    <Leistung Einheit="KW">110</Leistung>
+    <Höchstgeschwindingkeit Einheit="km/h">250</Höchstgeschwindingkeit>
+    <Von0Auf100 Einheit="s">0</Von0Auf100>
+    <Kennzeichen>AÖ-AR 1999</Kennzeichen>
+  </Auto>
+  <Auto>
+    <Hersteller>Opel</Hersteller>
+    <Model>Corsa D 1.2 ecoFlex</Model>
+    <Leergewicht Einheit="kg">785</Leergewicht>
+    <Zylinder>4</Zylinder>
+    <Hubraum Einheit="cm³">999</Hubraum>
+    <Leistung Einheit="KW">37</Leistung>
+    <Höchstgeschwindingkeit Einheit="km/h">250</Höchstgeschwindingkeit>
+    <Von0Auf100 Einheit="s">0</Von0Auf100>
+    <Kennzeichen>AÖ-AR 1999</Kennzeichen>
+  </Auto>
+</Autos>
+

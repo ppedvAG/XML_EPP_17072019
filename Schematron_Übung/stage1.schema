@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<schema xmlns="http://purl.oclc.org/dsdl/schematron">
+   <pattern>
+      <title>Too much cars rules</title>
+      <rule context="Autos">
+         <assert test="count(/Autos/Auto) &gt; 2">Kein Mensch braucht mehr als 2 Autos!</assert>
+      </rule>
+   </pattern>
+</schema>

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Books.xslt"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="Books.xsd"> 
+  <kind>books#volumes</kind>
+  <totalItems>752</totalItems>
+  <items>
+    <kind>books#volume</kind>
+    <id>ipBFpzg_0jkC</id>
+    <etag>mYW+4YzKu1M</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/ipBFpzg_0jkC</selfLink>
+    <volumeInfo>
+      <title>XML - Video-Training</title>
+      <publisher>Pearson Deutschland GmbH</publisher>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <printType>BOOK</printType>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>0.0.1.0.preview.1</contentVersion>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=ipBFpzg_0jkC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=ipBFpzg_0jkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=ipBFpzg_0jkC&amp;printsec=frontcover&amp;dq=xml&amp;hl=&amp;cd=1&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=ipBFpzg_0jkC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/XML_Video_Training.html?hl=&amp;id=ipBFpzg_0jkC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=ipBFpzg_0jkC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>mNwLDyMKfu4C</id>
+    <etag>v+IJlwx4fss</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/mNwLDyMKfu4C</selfLink>
+    <volumeInfo>
+      <title>Einsatz von XML-Technologien zur Geschäftsprozess-Integration am Beispiel der Anbindung von Dienstleistern aus der Versicherungswirtschaft an das Branchennetz "Kfz-Schadenservices"</title>
+      <authors>Torben Müller</authors>
+      <publisher>GRIN Verlag</publisher>
+      <publishedDate>2009</publishedDate>
+      <description>Fachbuch aus dem Jahr 2009 im Fachbereich Informatik - Wirtschaftsinformatik, 94 Quellen im Literaturverzeichnis, Sprache: Deutsch, Anmerkungen: Das vorliegende Buch gibt eine anonymisierte und erweiterte Version meiner Diplomarbeit wieder, die zur Erlangung des akademischen Grades Diplom Okonom angefertigt und von den Gutachtern des Fachgebiets Wirtschaftsinformatik der Universitat Kassel im Januar 2006 mit der Note 1,0 bewertet wurde. Die Arbeit verliert durch ihre Anonymisierung nicht an Wert. Das auf einer dynamischen Datentransformation basierende Konzept zur Integration von Geschaftsprozessen, bei denen XML-basierte Daten unterschiedlichen Formats ausgetauscht werden, ist ubertragbar und branchenubergreifend anwendbar., Abstract: Nach der unternehmensinternen Prozessorientierung gewinnt die elektronische Integration von Geschaftsprozessen uber Unternehmensgrenzen hinweg an Bedeutung. XML-Technologien versprechen im Zusammenhang mit der B2B-Integration flexible Losungen. In kleinen und mittelstandigen Unternehmen bieten die Standardtechnologien eine kostengunstige Alternative zu kommerziellen Integrationslosungen. Das Buch stellt ein Konzept fur den Einsatz von XML-Technologien, insbesondere XSLT, zur Geschaftsprozess-Integration vor. An einem Beispiel zur Anbindung von Dienstleistern an Versicherer wird gezeigt, wie eine dynamische Transformation von XML basierten Geschaftsdokumenten den unternehmensubergreifenden Datenaustausch unterstutzen kann. Neben betriebswirtschaftlichen Grundlagen geht der Autor auf Treiber, Ebenen und die Realisierung von B2B-Integrationsprojekten ein. Auf dieser Grundlage wird an einem Fallbeispiel gezeigt, welche Vorteile eine flexible, konfigurierbare Transformation von Geschaftsdokumenten bietet. Neben dem Konzept wird auch eine mogliche Implementierung vorgestellt, was das Buch auch fur Praktiker interessant macht.</description>
+
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783640410583</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3640410580</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>118</pageCount>
+      <printType>BOOK</printType>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>0.1.0.0.preview.1</contentVersion>
+      <panelizationSummary>
+        <containsEpubBubbles>false</containsEpubBubbles>
+        <containsImageBubbles>false</containsImageBubbles>
+      </panelizationSummary>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=mNwLDyMKfu4C&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=mNwLDyMKfu4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=mNwLDyMKfu4C&amp;printsec=frontcover&amp;dq=xml&amp;hl=&amp;cd=2&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=mNwLDyMKfu4C&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/Einsatz_von_XML_Technologien_zur_Gesch%C3%A4.html?hl=&amp;id=mNwLDyMKfu4C</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=mNwLDyMKfu4C&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>Fachbuch aus dem Jahr 2009 im Fachbereich Informatik - Wirtschaftsinformatik, 94 Quellen im Literaturverzeichnis, Sprache: Deutsch, Anmerkungen: Das vorliegende Buch gibt eine anonymisierte und erweiterte Version meiner Diplomarbeit wieder, ...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>jf45nkDnlggC</id>
+    <etag>qI9p2dImNLM</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/jf45nkDnlggC</selfLink>
+    <volumeInfo>
+      <title>Jetzt lerne ich XML</title>
+      <subtitle>der einfache Einstieg in den führenden Dokumenten- und Web-Standard ; [Start ohne Vorwissen]</subtitle>
+      <authors>Günter Born</authors>
+      <publisher>Pearson Deutschland GmbH</publisher>
+      <publishedDate>2005</publishedDate>
+      <description>Gut verständliche praktische Einführung in XML für Einsteiger ohne Vorkenntnisse. Behandelt Konzepte und Regeln, Wohlgeformtheit und Gültigkeit, Namensräume und XML-Schemata, die Darstellung von XML mit Cascading Style Sheets u.a.m.</description>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3827268540</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783827268549</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>442</pageCount>
+      <printType>BOOK</printType>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>0.0.2.0.preview.1</contentVersion>
+      <panelizationSummary>
+        <containsEpubBubbles>false</containsEpubBubbles>
+        <containsImageBubbles>false</containsImageBubbles>
+      </panelizationSummary>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=jf45nkDnlggC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=jf45nkDnlggC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=jf45nkDnlggC&amp;pg=PA380&amp;dq=xml&amp;hl=&amp;cd=3&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=jf45nkDnlggC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/Jetzt_lerne_ich_XML.html?hl=&amp;id=jf45nkDnlggC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=jf45nkDnlggC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>
+	  
+	  
+	  
+	  1: Einfache &lt;b&gt;XML&lt;/b&gt;-Struktur 10.1 Arbeiten mit &lt;b&gt;XML&lt;/b&gt;-Dateninseln &lt;b&gt;XML&lt;/b&gt;-Dateninseln (&lt;br&gt;
+&lt;b&gt;XML&lt;/b&gt;-Data-Islands) vereinen die Vorteile von &lt;b&gt;XML&lt;/b&gt; mit der leichten Anwendbarkeit &lt;br&gt;
+von HTML. Die benötigten Daten werden dabei direkt im HTML-Code eingefügt&amp;nbsp;...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>sWlufYWbsjQC</id>
+    <etag>sflpkGO3Vi4</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/sWlufYWbsjQC</selfLink>
+    <volumeInfo>
+      <title>Eine XML-basierte Integration von Unternehmensanwendungen am Beispiel der Qualitätssicherung in der Automobilindustrie</title>
+      <authors>Sebastian Behrens</authors>
+      <publisher>GRIN Verlag</publisher>
+      <publishedDate>2003-10-08</publishedDate>
+      <description>Diplomarbeit aus dem Jahr 2003 im Fachbereich Informatik - Wirtschaftsinformatik, Note: 1,3, Hochschule Harz Hochschule für angewandte Wissenschaften (Fachbereich Wirtschaftswissenschaften), Sprache: Deutsch, Abstract: Die hier vorliegende Arbeit beschäftigt sich mit der Entwicklung von wiederverwendbarer, auf Komponenten basierter Software. Zur praktischen Umsetzung wird ein Beispielszenario aus der Qualitätssicherung eines deutschen Automobilherstellers verwendet. Dabei soll ein Prototyp entwickelt werden, mit dem es möglich ist, Grafikdaten zwischen zwei Anwendungen auszutauschen. Da zum Einen die verwendeten Grafikformate auf der XML3 Syntax basieren, zum anderen XML eine wesentliche Grundlage für moderne EAI-Anwendungen bildet, soll der Focus der Arbeit darauf gelegt sein, wie XML den Austausch von Daten zwischen Anwendungen unterstützt. Somit soll der zu entwickelnde Prototyp in der Lage sein, XML-Daten zu verarbeiten. Besonderer Wert soll dabei auf die Erstellung von Stylesheets gelegt werden, mit denen es möglich ist, die Struktur von XML-Dokumenten zu ändern. Um eine strukturierte Einführung in den zuvor kurz beschriebenen Sachverhalt zu geben, wird im Kapitel 2 zunächst eine Einführung in das Thema EAI gegeben. Neben einer Definition wird versucht, die Gründe für die Entwicklung von EAI-Anwendungen näher zu beleuchten. Ausserdem wird sich dem allgemeinen Aufbau solcher Anwendungen gewidmet. Abschliessend folgt ein kurzer Einblick, wie XML die Integration unterstützen kann. Die Kapitel 3 und 4 befassen sich mit der Entwicklung komponentenbasierter Softwareanwendungen. Während in Kaptel 3 die Grundlagen erläutert werden, gibt das Kapitel 4 einen umfassenden Einblick in verschiedenen Möglichkeiten zur Umsetzung dieses Ansatzes. Dazu werden die Technologien Enterprise JavaBeans (EJB4), Common Object Request Broker Architecture (CORBA5), WebServices sowie das (Distributed) Component Object Model ((D)COM6) vorgestellt. Alle Technologien bieten Ansätze zur Entwicklung von Software in Komponenten. Denn Abschluss bildet ein Vergleich der vorgestellten Technologien anhand selbst gewählter Kriterien. Als Ergebnis steht die Auswahl einer Technologie, welche als besonders geeignet erscheint. Die Abschnitte 5 bis 7 beschäftigen sich mit der prototypischen Umsetzung einer EAIAnwendung. Dazu erfolgt zunächst eine detaillierte Beschreibung der Anwendung.</description>
+
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783638222785</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3638222780</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>125</pageCount>
+      <printType>BOOK</printType>
+      <categories>Computers</categories>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>3.6.2.0.preview.1</contentVersion>
+      <panelizationSummary>
+        <containsEpubBubbles>false</containsEpubBubbles>
+        <containsImageBubbles>false</containsImageBubbles>
+      </panelizationSummary>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=sWlufYWbsjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=sWlufYWbsjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=sWlufYWbsjQC&amp;printsec=frontcover&amp;dq=xml&amp;hl=&amp;cd=4&amp;source=gbs_api</previewLink>
+      <infoLink>https://play.google.com/store/books/details?id=sWlufYWbsjQC&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://market.android.com/details?id=book-sWlufYWbsjQC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>FOR_SALE</saleability>
+      <isEbook>true</isEbook>
+      <listPrice>
+        <amount>10.99</amount>
+        <currencyCode>CHF</currencyCode>
+      </listPrice>
+      <retailPrice>
+        <amount>10.99</amount>
+        <currencyCode>EUR</currencyCode>
+      </retailPrice>
+      <buyLink>https://play.google.com/store/books/details?id=sWlufYWbsjQC&amp;rdid=book-sWlufYWbsjQC&amp;rdot=1&amp;source=gbs_api</buyLink>
+      <offers>
+        <finskyOfferType>1</finskyOfferType>
+        <listPrice>
+          <amountInMicros>10990000</amountInMicros>
+          <currencyCode>EUR</currencyCode>
+        </listPrice>
+        <retailPrice>
+          <amountInMicros>10990000</amountInMicros>
+          <currencyCode>EUR</currencyCode>
+        </retailPrice>
+        <giftable>true</giftable>
+      </offers>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>true</isAvailable>
+        <acsTokenLink>http://books.google.de/books/download/Eine_XML_basierte_Integration_von_Untern-sample-pdf.acsm?id=sWlufYWbsjQC&amp;format=pdf&amp;output=acs4_fulfillment_token&amp;dl_type=sample&amp;source=gbs_api</acsTokenLink>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=sWlufYWbsjQC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>Diplomarbeit aus dem Jahr 2003 im Fachbereich Informatik - Wirtschaftsinformatik, Note: 1,3, Hochschule Harz Hochschule für angewandte Wissenschaften (Fachbereich Wirtschaftswissenschaften), Sprache: Deutsch, Abstract: Die hier vorliegende ...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>2Lhr6QyYcqIC</id>
+    <etag>DSbPqG1utG4</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/2Lhr6QyYcqIC</selfLink>
+    <volumeInfo>
+      <title>Maschinelle Übersetzung und XML im Übersetzungsprozess</title>
+      <subtitle>Prozesse der Translation und Lokalisierung im Wandel : zwei Beiträge</subtitle>
+      <authors>Michael Krenz</authors>
+      <authors>Markus Ramlow</authors>
+      <publisher>Frank &amp; Timme GmbH</publisher>
+      <publishedDate>2008</publishedDate>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783865961846</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3865961843</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>364</pageCount>
+      <printType>BOOK</printType>
+      <categories>French language</categories>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>preview-1.0.0</contentVersion>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=2Lhr6QyYcqIC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=2Lhr6QyYcqIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=2Lhr6QyYcqIC&amp;printsec=frontcover&amp;dq=xml&amp;hl=&amp;cd=5&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=2Lhr6QyYcqIC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/Maschinelle_%C3%9Cbersetzung_und_XML_im_%C3%9Cbe.html?hl=&amp;id=2Lhr6QyYcqIC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=2Lhr6QyYcqIC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>2TWti9Gy7ZwC</id>
+    <etag>2QEThkqE6ns</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/2TWti9Gy7ZwC</selfLink>
+    <volumeInfo>
+      <title>XML in Office 2003</title>
+      <subtitle>Daten managen mit Word, Excel, FrontPage und InfoPath</subtitle>
+      <authors>Charles F. Goldfarb</authors>
+      <authors>Priscilla Walmsley</authors>
+      <publisher>Pearson Deutschland GmbH</publisher>
+      <publishedDate>2004</publishedDate>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3827321794</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783827321794</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>471</pageCount>
+      <printType>BOOK</printType>
+      <categories>Office 2003 - XML</categories>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>0.0.1.0.preview.1</contentVersion>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=2TWti9Gy7ZwC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=2TWti9Gy7ZwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=2TWti9Gy7ZwC&amp;pg=PA131&amp;dq=xml&amp;hl=&amp;cd=6&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=2TWti9Gy7ZwC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/XML_in_Office_2003.html?hl=&amp;id=2TWti9Gy7ZwC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=2TWti9Gy7ZwC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>Excel-Anwenderaufgaben ▻ Zuordnungen von &lt;b&gt;XML&lt;/b&gt; und Arbeitsblättern ▻ Die &lt;br&gt;
+Struktur zur Datenanalyse abflachen ▻ XMLSS: das Excel-&lt;b&gt;XML&lt;/b&gt;-Vokabular &lt;br&gt;
+Daten lassen sich mit erläuterndem Text vielleicht am flexibelsten mitteilen, wenn &lt;br&gt;
+man&amp;nbsp;...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>oS1j6Ojka4EC</id>
+    <etag>kIWiXqckufo</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/oS1j6Ojka4EC</selfLink>
+    <volumeInfo>
+      <title>XML</title>
+      <subtitle>kurz &amp; gut</subtitle>
+      <authors>Robert Eckstein</authors>
+      <authors>Michel Casabianca</authors>
+      <publisher>O'Reilly Germany</publisher>
+      <publishedDate>2002</publishedDate>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3897212358</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783897212350</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>106</pageCount>
+      <printType>BOOK</printType>
+      <averageRating>3</averageRating>
+      <ratingsCount>1</ratingsCount>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>0.0.2.0.preview.1</contentVersion>
+      <panelizationSummary>
+        <containsEpubBubbles>false</containsEpubBubbles>
+        <containsImageBubbles>false</containsImageBubbles>
+      </panelizationSummary>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=oS1j6Ojka4EC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=oS1j6Ojka4EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=oS1j6Ojka4EC&amp;pg=PA6&amp;dq=xml&amp;hl=&amp;cd=7&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=oS1j6Ojka4EC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/XML.html?hl=&amp;id=oS1j6Ojka4EC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=oS1j6Ojka4EC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>Man muß sich darüber klarwerden, daß somit keine »korrekten« Tags für ein &lt;br&gt;
+&lt;b&gt;XML&lt;/b&gt;-Dokument existieren, wenn man die Tags nicht selbst definiert. Während &lt;br&gt;
+derzeit viele &lt;b&gt;XML&lt;/b&gt;-Anwendungen Cascading Style Sheets (CSS) unterstützen, &lt;br&gt;
+existiert&amp;nbsp;...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>ocK0q9rYwDEC</id>
+    <etag>IkQ7914X+x4</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/ocK0q9rYwDEC</selfLink>
+    <volumeInfo>
+      <title>XML-Schema</title>
+      <authors>Marco Skulschus</authors>
+      <authors>Marcus Wiederstein</authors>
+      <authors>Sarah Winterstone</authors>
+      <publisher>Comelio Medien</publisher>
+      <publishedDate>2011</publishedDate>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783939701545</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3939701548</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>527</pageCount>
+      <printType>BOOK</printType>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>0.2.0.0.preview.1</contentVersion>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=ocK0q9rYwDEC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=ocK0q9rYwDEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=ocK0q9rYwDEC&amp;pg=PA463&amp;dq=xml&amp;hl=&amp;cd=8&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=ocK0q9rYwDEC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/XML_Schema.html?hl=&amp;id=ocK0q9rYwDEC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=ocK0q9rYwDEC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>&lt;b&gt;XML&lt;/b&gt; Schema ist ein Standard für die Modellierung von Datenformaten mit der &lt;br&gt;
+Benennung von Feldern (aufgeteilt in Elemente und Attribute) und ihren &lt;br&gt;
+Eigenschaften wie ihr zulässiger Inhalt (Datentyp ihres Inhalts oder Unter-Feld-&lt;br&gt;
+Struktur&amp;nbsp;...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>Uhaoubt9W1gC</id>
+    <etag>Hr5AUoBeF4g</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/Uhaoubt9W1gC</selfLink>
+    <volumeInfo>
+      <title>Oracle, PL/SQL und XML</title>
+      <authors>Marco Skulschus</authors>
+      <authors>Marcus Wiederstein</authors>
+      <publisher>Comelio Medien</publisher>
+      <publishedDate>2011-01</publishedDate>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783939701491</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3939701491</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>467</pageCount>
+      <printType>BOOK</printType>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>1.1.1.0.preview.1</contentVersion>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=Uhaoubt9W1gC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=Uhaoubt9W1gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=Uhaoubt9W1gC&amp;pg=PA271&amp;dq=xml&amp;hl=&amp;cd=9&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=Uhaoubt9W1gC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/Oracle_PL_SQL_und_XML.html?hl=&amp;id=Uhaoubt9W1gC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=Uhaoubt9W1gC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>In den zurückliegenden Kapiteln wurde dargestellt, wie man &lt;b&gt;XML&lt;/b&gt; aus &lt;br&gt;
+relationalen Daten erstellen und auch mit einer Reihe von Mitteln verarbeiten &lt;br&gt;
+kann. Auf den speziellen Datentyp XMLType geht noch einmal ein späteres &lt;br&gt;
+Kapitel genauer&amp;nbsp;...</textSnippet>
+    </searchInfo>
+  </items>
+  <items>
+    <kind>books#volume</kind>
+    <id>fjQ7_ShcPXkC</id>
+    <etag>xBKXNT6JTQw</etag>
+    <selfLink>https://www.googleapis.com/books/v1/volumes/fjQ7_ShcPXkC</selfLink>
+    <volumeInfo>
+      <title>XML</title>
+      <subtitle>DTD, XML-Schema, XPath, XQuery, XSLT, XSL-FO, SAX, DOM</subtitle>
+      <authors>Margit Becher</authors>
+      <publisher>W3l GmbH</publisher>
+      <publishedDate>2009</publishedDate>
+      <industryIdentifiers>
+        <type>ISBN_13</type>
+        <identifier>9783937137698</identifier>
+      </industryIdentifiers>
+      <industryIdentifiers>
+        <type>ISBN_10</type>
+        <identifier>3937137696</identifier>
+      </industryIdentifiers>
+      <readingModes>
+        <text>false</text>
+        <image>true</image>
+      </readingModes>
+      <pageCount>326</pageCount>
+      <printType>BOOK</printType>
+      <categories>XML</categories>
+      <maturityRating>NOT_MATURE</maturityRating>
+      <allowAnonLogging>false</allowAnonLogging>
+      <contentVersion>1.1.0.0.preview.1</contentVersion>
+      <imageLinks>
+        <smallThumbnail>http://books.google.com/books/content?id=fjQ7_ShcPXkC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_api</smallThumbnail>
+        <thumbnail>http://books.google.com/books/content?id=fjQ7_ShcPXkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+      </imageLinks>
+      <language>de</language>
+      <previewLink>http://books.google.de/books?id=fjQ7_ShcPXkC&amp;pg=PA35&amp;dq=xml&amp;hl=&amp;cd=10&amp;source=gbs_api</previewLink>
+      <infoLink>http://books.google.de/books?id=fjQ7_ShcPXkC&amp;dq=xml&amp;hl=&amp;source=gbs_api</infoLink>
+      <canonicalVolumeLink>https://books.google.com/books/about/XML.html?hl=&amp;id=fjQ7_ShcPXkC</canonicalVolumeLink>
+    </volumeInfo>
+    <saleInfo>
+      <country>DE</country>
+      <saleability>NOT_FOR_SALE</saleability>
+      <isEbook>false</isEbook>
+    </saleInfo>
+    <accessInfo>
+      <country>DE</country>
+      <viewability>PARTIAL</viewability>
+      <embeddable>true</embeddable>
+      <publicDomain>false</publicDomain>
+      <textToSpeechPermission>ALLOWED</textToSpeechPermission>
+      <epub>
+        <isAvailable>false</isAvailable>
+      </epub>
+      <pdf>
+        <isAvailable>false</isAvailable>
+      </pdf>
+      <webReaderLink>http://play.google.com/books/reader?id=fjQ7_ShcPXkC&amp;hl=&amp;printsec=frontcover&amp;source=gbs_api</webReaderLink>
+      <accessViewStatus>SAMPLE</accessViewStatus>
+      <quoteSharingAllowed>false</quoteSharingAllowed>
+    </accessInfo>
+    <searchInfo>
+      <textSnippet>Wohlgeformtheit sichert nur die syntaktische Korrektheit eines &lt;b&gt;XML&lt;/b&gt;-Dokumentes. &lt;br&gt;
+In vielen Bereichen ist es zudem sehr wichtig sicherzustellen, dass ein Dokument &lt;br&gt;
+auch einer vorab festgelegten Struktur entspricht. Die älteste Möglichkeit, eine&amp;nbsp;...</textSnippet>
+    </searchInfo>
+  </items>
+</root>
